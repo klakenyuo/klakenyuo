@@ -2,7 +2,7 @@
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on IA Projects
-- 📫 How to reach me +22966520070
+- 📫 How to reach me gillesakakpo01@gmail.com
 
 <!---
 klakenyuo/klakenyuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
